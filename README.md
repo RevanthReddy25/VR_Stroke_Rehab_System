@@ -98,6 +98,9 @@ git clone https://github.com/yourusername/yourrepo.git
 - Wear the Meta Quest headset
 - Rotate hands and test EEG-based gesture control
 
+![VR Demo](Demo/eeg_signal_control.gif) ![VR Demo](Demo/vr_demo.gif)
+
+
 ### 🎯 Future Enhancements
 
 - Multi-gesture EEG classification (pinch, thumbs-up, point)
